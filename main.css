@@ -15,9 +15,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     .first-header {
         display: inline-block;
         width: 100%;
-        padding: 80px;
-        
-
+        padding: 80px;        
     }
     
     .logo {
@@ -25,7 +23,6 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         width: 100px;
         float: left;
         
-
 
     }
     .first-link {
@@ -42,8 +39,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         color: black;
         text-decoration: none;
         position: relative;
-        left: 120px;    
-        
+        left: 120px;            
     }
 
 .professor-main {
@@ -51,7 +47,6 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         padding: 80px;
         color: black;
         
-
 }
     .professor { 
         width: 600px;
@@ -59,7 +54,6 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         padding-bottom: 10px;
         font-size: 60px;
         color: black;
-
     }
     .prof-text { 
         width: 600px;
@@ -234,5 +228,57 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                 top: 150px;
 
         }
-            
+    .ketvirta-sekcija {
+                display: inline-block;
+                float: left;
+                width: 100%;
+                height: 100vh;
+    }
+        .abdo-left {
+                display: inline-block;
+                width: 600px;
+                float: left;
+                position: relative;
+                top: 180px;
+                left: 160px;
+        }
 
+        .abdo-right {
+                display: inline-block;
+                width: 800px;
+                float: right;
+        }
+                .ketvirta-mergina {
+                display: inline-block;
+                width: 650px;
+                float: right;
+                position: absolute;
+                margin-top: 60px;
+                margin-left: 60px; 
+                }
+    .penkta-sekcija {
+                display: inline-block;
+                width: 100%;
+                height: 100vh;
+    }
+        .aes-left {
+                display: inline-block;
+                width: 800px;
+                float: left;
+        }
+            .penkta-mergina {
+                display: inline-block;
+                width: 650px;
+                float: left;
+                position: absolute;
+                margin-top: 60px;
+                margin-left: 80px;
+             
+            }
+        .aes-right {
+                display: inline-block;
+                width: 600px;
+                float: right;
+                position: relative;
+                top: 150px;
+        }
