@@ -205,3 +205,34 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                 text-align: center;
                 background-color: #229E99; 
             }
+
+    .trecia-sekcija {
+        display: inline-block;
+        width: 100%;
+        height: 100vh;
+    }
+        .reduc-left {
+                display: inline-block;
+                width: 800px;
+                float: left;     
+            }
+
+            .trecia-mergina {
+                display: inline-block;
+                width: 650px;
+                float: left;
+                position: absolute;
+                margin-top: 20px;
+                margin-left: 80px;
+            }
+
+        .reduc-right {
+                display: inline-block;
+                width: 600px;
+                float: right;
+                position: relative;
+                top: 150px;
+
+        }
+            
+
