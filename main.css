@@ -37,18 +37,19 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     .link {
         display: inline-block;
         padding: 25px;
+        margin: 15px;
         font-size: 18px;
         color: black;
         text-decoration: none;
         position: relative;
-        left: 150px;    
+        left: 120px;    
         
     }
 
 .professor-main {
         width: 800px;
         padding: 80px;
-        color: white;
+        color: black;
         
 
 }
@@ -57,7 +58,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         border-bottom: 2px solid #22A4A2;
         padding-bottom: 10px;
         font-size: 60px;
-        color: white;
+        color: black;
 
     }
     .prof-text { 
@@ -72,22 +73,18 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         padding: 10px;
         padding-right: 40px;
         padding-left: 40px;
-        border: 2px solid white;
+        border: 2px solid black;
         border-radius: 30px;
         text-decoration: none;
-        color: white;
+        color: black;
         font-size: 25px;
-
-        
-
     }
 
     .br-image {
-        background-image: url(./background.jpg);
+        background-image: url(./womanbackgr.jpg);
         background-size: cover;
         background-position: center;
         
-
     }
 
     .pirma-sekcija {
@@ -98,10 +95,9 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
         .aug-left {
             display: inline-block;
-            width: 700px;
+            width: 800px;
             float: left;
             
-
      }
     
         .pirma-merg {
@@ -111,9 +107,6 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             position: absolute;
             margin-top: 60px;
             margin-left: 80px;
-            
-            
-
      }
 
         .bcg-text {
@@ -130,9 +123,9 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         .aug-right {
             display: inline-block;
             width: 600px;
-            height: 450px;
             float: right;
-            margin-top: 200px;
+            position: relative;
+            top: 150px;
             
 
 
@@ -141,8 +134,6 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             font-size: 100px;
             color: #D3ECEB;
             
-            
-
         }
 
         .heading {
@@ -175,3 +166,42 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             
 
         }
+
+.antra-sekcija {
+            display: inline-block;
+            float: left;
+            width: 100%;
+            height: 100vh;
+
+}
+        .lift-left {
+                display: inline-block;
+                width: 600px;
+                float: left;
+                position: relative;
+                top: 180px;
+                left: 160px;
+        }
+
+        .lift-right {
+                display: inline-block;
+                width: 800px;
+                float: right;
+        }
+            .antra-mergina {
+                display: inline-block;
+                width: 650px;
+                float: right;
+                position: absolute;
+                margin-top: 60px;
+                margin-left: 60px;  
+            }
+            .bg-text {
+                display: inline-block;
+                width: 800px;
+                float: right;
+                margin-top: 400px;
+                height: 350px;
+                text-align: center;
+                background-color: #229E99; 
+            }
