@@ -78,13 +78,14 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         background-image: url(./womanbackgr.jpg);
         background-size: cover;
         background-position: center;
+        background-attachment: fixed;
         
     }
 
     .pirma-sekcija {
-                display: inline-block;
-                width: 100%;
-                height: 100vh;
+           display: inline-block;
+           width: 100%;
+           height: 100vh;
 
     }
         .aug-left {
