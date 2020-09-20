@@ -283,3 +283,32 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                 position: relative;
                 top: 150px;
         }
+
+    .about {
+        display: inline-block;
+        float: left;
+        width: 100%;
+        height: 100vh;
+
+
+    }
+        .about-left {
+            display: inline-block;
+            float: left;
+            width: 40%;
+            
+
+        }
+            .about-heading {
+                float: left
+            }
+            .about-text {
+                float: left;
+            }
+        .about-right {
+            width: 50%;
+            float: right;
+        }
+        .about-img {
+
+        }
