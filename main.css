@@ -75,7 +75,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
 
     .br-image {
-        background-image: url(./womanbackgr.jpg);
+        background-image: url(./img/womanbackgr.jpg);
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
@@ -326,11 +326,33 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         }
         .about-img {
 
-            background-image: url(./mergina6.jpg);
+            background-image: url(./img/mergina6.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
-            
-            
-
         }
+
+    .footer {
+        display: inline-block;
+        width: 100%;
+        height: 100vh;
+
+    }
+    .header-footer {
+        width: 100%;
+    }
+    .header.img {
+
+    }
+    .footer-main {
+
+    }
+    .footer-heading {
+
+    }
+    .links {
+
+    }
+    .footer-img {
+
+    }
