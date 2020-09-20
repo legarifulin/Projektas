@@ -1,0 +1,363 @@
+@media (max-width: 1300px) {
+    .aug-left {
+        display: inline-block;
+        width: 700px;
+        float: left;
+    }
+    
+    .text {
+        font-size: 20px;
+        margin-top: 20px;
+        width: 400px;
+        color: #949597;
+    }
+
+    .pirma-merg {
+        display: inline-block;
+        width: 550px;
+        float: left;
+        position: absolute;
+        margin-top: 60px;
+        margin-left: 80px;
+ }
+
+    .bcg-text {
+        display: inline-block;
+        width: 700px;
+        float: left;
+        margin-top: 400px;
+        height: 250px;
+        text-align: center;
+        background-color: #229E99;
+
+ }
+
+    .aug-right {
+        display: inline-block;
+        width: 400px;
+        float: right;
+        position: relative;
+        top: 150px;
+
+    }
+
+.lift-left {
+    display: inline-block;
+    width: 500px;
+    float: left;
+    position: relative;
+    top: 180px;
+    left: 160px;
+}
+
+.lift-right {
+    display: inline-block;
+    width: 700px;
+    float: right;
+}
+.antra-mergina {
+    display: inline-block;
+    width: 550px;
+    float: right;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 70px;  
+}
+.bg-text {
+    display: inline-block;
+    width: 700px;
+    float: right;
+    margin-top: 400px;
+    height: 250px;
+    text-align: center;
+    background-color: #229E99; 
+}
+.reduc-left {
+    display: inline-block;
+    width: 600px;
+    float: left;     
+}
+
+.trecia-mergina {
+    display: inline-block;
+    width: 500px;
+    float: left;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.reduc-right {
+    display: inline-block;
+    width: 400px;
+    float: right;
+    position: relative;
+    top: 150px;
+}
+
+.abdo-left {
+    display: inline-block;
+    width: 500px;
+    float: left;
+    position: relative;
+    top: 180px;
+    left: 160px;
+}
+
+.abdo-right {
+    display: inline-block;
+    width: 700px;
+    float: right;
+}
+    .ketvirta-mergina {
+    display: inline-block;
+    width: 550px;
+    float: right;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 60px; 
+    }
+    .aes-left {
+        display: inline-block;
+        width: 700px;
+        float: left;
+}
+    .penkta-mergina {
+        display: inline-block;
+        width: 550px;
+        float: left;
+        position: absolute;
+        margin-top: 60px;
+        margin-left: 80px;
+     
+    }
+.aes-right {
+        display: inline-block;
+        width: 500px;
+        float: right;
+        position: relative;
+        top: 150px;
+}
+.about-left {
+    display: inline-block;
+    float: left;
+    width: 500px;
+    padding: 90px;
+    margin-top: 100px;
+    margin-left: 90px;
+    
+
+}
+    .about-heading {
+        float: left;
+        font-size: 40px;
+        margin-bottom: 20px;
+        width: 200px;
+        
+    }
+    .about-text {
+        display: inline-block;
+        float: left;
+        font-size: 20px;
+        color: #949597;
+    }
+.about-right {
+    display: inline-block;
+    width: 600px;
+    height: 90vh;
+    margin-top: 50px; 
+    float: right;
+    padding: 60px;
+    background-color: blue;
+
+}
+.footer-img {
+    float: left;
+    margin: 80px;
+    padding: 30px;
+    border-radius: 50%;
+    border: 3px solid #F4F5F5;
+}
+@media (max-width: 1200px) {
+    .aug-left {
+        display: inline-block;
+        width: 600px;
+        float: left;
+    }
+    
+    .text {
+        font-size: 20px;
+        margin-top: 20px;
+        width: 300px;
+        color: #949597;
+    }
+
+    .pirma-merg {
+        display: inline-block;
+        width: 450px;
+        float: left;
+        position: absolute;
+        margin-top: 60px;
+        margin-left: 80px;
+ }
+
+    .bcg-text {
+        display: inline-block;
+        width: 600px;
+        float: left;
+        margin-top: 400px;
+        height: 200px;
+        text-align: center;
+        background-color: #229E99;
+
+ }
+
+    .aug-right {
+        display: inline-block;
+        width: 300px;
+        float: right;
+        position: relative;
+        top: 150px;
+
+    }
+
+.lift-left {
+    display: inline-block;
+    width: 400px;
+    float: left;
+    position: relative;
+    top: 180px;
+    left: 160px;
+}
+
+.lift-right {
+    display: inline-block;
+    width: 600px;
+    float: right;
+}
+.antra-mergina {
+    display: inline-block;
+    width: 450px;
+    float: right;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 70px;  
+}
+.bg-text {
+    display: inline-block;
+    width: 600px;
+    float: right;
+    margin-top: 400px;
+    height: 250px;
+    text-align: center;
+    background-color: #229E99; 
+}
+.reduc-left {
+    display: inline-block;
+    width: 400px;
+    float: left;     
+}
+
+.trecia-mergina {
+    display: inline-block;
+    width: 400px;
+    float: left;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.reduc-right {
+    display: inline-block;
+    width: 300px;
+    float: right;
+    position: relative;
+    top: 150px;
+}
+
+.abdo-left {
+    display: inline-block;
+    width: 400px;
+    float: left;
+    position: relative;
+    top: 180px;
+    left: 160px;
+}
+
+.abdo-right {
+    display: inline-block;
+    width: 600px;
+    float: right;
+}
+    .ketvirta-mergina {
+    display: inline-block;
+    width: 450px;
+    float: right;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 60px; 
+    }
+    .aes-left {
+        display: inline-block;
+        width: 600px;
+        float: left;
+}
+    .penkta-mergina {
+        display: inline-block;
+        width: 450px;
+        float: left;
+        position: absolute;
+        margin-top: 60px;
+        margin-left: 80px;
+     
+    }
+.aes-right {
+        display: inline-block;
+        width: 400px;
+        float: right;
+        position: relative;
+        top: 150px;
+}
+.about-left {
+    display: inline-block;
+    float: left;
+    width: 400px;
+    padding: 90px;
+    margin-top: 100px;
+    margin-left: 90px;
+    
+
+}
+    .about-heading {
+        float: left;
+        font-size: 40px;
+        margin-bottom: 20px;
+        width: 200px;
+        
+    }
+    .about-text {
+        display: inline-block;
+        float: left;
+        font-size: 20px;
+        color: #949597;
+    }
+.about-right {
+    display: inline-block;
+    width: 500px;
+    height: 90vh;
+    margin-top: 50px; 
+    float: right;
+    padding: 60px;
+    background-color: blue;
+
+}
+.footer-img {
+    float: left;
+    margin: 60px;
+    padding: 30px;
+    border-radius: 50%;
+    border: 3px solid #F4F5F5;
+}
+
+}
+}
